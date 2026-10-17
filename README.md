@@ -4,7 +4,7 @@ A 2D drone simulator built on real physics, with a flight controller I tuned mys
 
 It started as a pygame game where the drone moved in pixels per frame and every number was whatever felt right. I wanted it to answer real questions, like how much cargo it can carry or why drones lose control on a nearly empty battery, so I rebuilt it with real units and real physics.
 
-**Play it in the browser:** [warriorlie123.github.io/uav-flight-sim](https://warriorlie123.github.io/uav-flight-sim/)
+**Play it in the browser:** [omerburhan.com/uav-flight-sim](https://omerburhan.com/uav-flight-sim/)
 
 ![Level 3 on autopilot](docs/img/game_level3.png)
 
